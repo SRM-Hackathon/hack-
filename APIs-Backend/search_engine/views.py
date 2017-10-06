@@ -112,3 +112,67 @@ class HerbView(viewsets.ModelViewSet):
                 "recommendations": []
             }
             return Response(content, status=status.HTTP_200_OK)
+
+    @detail_route(methods=['post'])
+    def search_results(self, request, *args, **kwargs):
+        query = request.data.get('query')
+
+        search_doc = {
+            "size": 18,
+            "query": {
+                "dis_max": {
+                    "queries": [
+                        {
+                            "match": {
+                                "botanical_name": {
+                                    "query": query,
+                                    "boost": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "match": {
+                                "parts_used": {
+                                    "query": query,
+                                    "boost": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "match": {
+                                "places": {
+                                    "query": query,
+                                    "boost": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "match": {
+                                "properties": {
+                                    "query": query,
+                                    "boost": 1.0
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                { "_score": { "order": "desc" }}
+            ]
+        }
+
+        results = es.search(index = "herbs_info", doc_type = "doc", body = json.dumps(search_doc), sort = "_score")
+
+        search_results = []
+        for i in results['hits']['hits']:
+            res = {}
+            res['botanical_name'] = i['_source']['botanical_name'].replace(" ", "-").lower()
+            #res['places'] = i['_source']['places']
+            #res['properties'] = i['_source']['properties']
+            search_results.append(res)
+
+        content = {
+            "results": search_results
+        }
+        return Response(content, status=status.HTTP_200_OK)
