@@ -7,8 +7,10 @@ import java.util.List;
  */
 
 public class PlantDetail {
-    String name;
-    List<String> properties;
-    List<String> parts_used;
-    List<String> places;
+    public String name;
+    public List<String> properties;
+    public List<String> parts_used;
+    public List<String> places;
+    public List<String> recommendations;
+    public List<Double> lat,lng;
 }

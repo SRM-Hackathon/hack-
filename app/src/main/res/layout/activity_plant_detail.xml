@@ -7,12 +7,27 @@
     android:orientation="vertical"
     tools:context="com.example.rishi.herbscout.Activity.PlantDetailActivity">
 
-    <ImageView
-        android:id="@+id/imgPlant"
+    <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="@color/colorPrimaryDark" />
+        android:layout_height="wrap_content">
 
+        <ImageView
+            android:id="@+id/imgPlant"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/colorPrimaryDark" />
+
+        <TextView
+            android:id="@+id/tvPlantName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Azadirachta indica"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            android:textColor="@color/white"
+            android:textSize="36sp" />
+    </FrameLayout>
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="fill_parent">
