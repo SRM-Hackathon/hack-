@@ -3,6 +3,402 @@
 
     <item
         is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/f540aa1c54e66edb4eeb86f40147a1f7ad1fbcc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26deb707305634c4e4a589da35c1a8d3a1f75dfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/3051af173335a84bfe31038f5c913ec7f94cc1a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c338842598a58bd386a01891243aea5b4cba0de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/f16b4269f3fb2778400980c684163eac231ff6e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fab03fef9ffdbb117968fcaf260eda3abf559cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/a6810fa0ab4330c83c31c1bdad79bc262e28d292/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d40addd66eefa9c03d49b8318fe27ca5cce9fe03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/5fe0540bf5408c9e52b848eb9c68fde76c163ba9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4301e02854cbb4f1eac7261e34a1b7880706b0fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/e3f0349b4fbf98a0cc58fbdbb64c8f4e6a257d91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42167d12fc214b9a7563d5d4d947780c51879bb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/a6810fa0ab4330c83c31c1bdad79bc262e28d292/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e31fae9212372a0d1e7ce9541dc06908722c2d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/117a36a4060bf238a8198d882736edcb390d6f6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_925ff30bf19dc3aa50960b7324b6778307c4ea54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/9045ecf25ecaee15b10389f2978888b59e895800/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70121b6ba1088309e7bb0d4c97cb96a239c56394/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/355a62f9ff355fa4f2f3e1123525ce8a02f6c6d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c10c83c7a6c204b10b628f90955ced7765e80f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/1689233f5b5cb2772f44c8161a54515f8e7e7cd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eeebc13523a172301dd016a7e15aabd6f2a9d790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/bb87e6b94fdb955b6a27e0b944d45484ff13ed43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be37e9ca679ebc3411384ed3274e17abc794d952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/ee1480c0242c4f1cb3c53229769339e7f075017e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc3afaae7c88f4d26bbb4e0ee4f6a16a441617f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/bc06d00dfbb1e6d6375bf3b512d5f654d46028f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1e975bb0de21a8ee0eb37096a11b8136511bfe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/51c29d91abdd5a4cbbbe9b6077edddf483c88484/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a667a71612db4356fe43247474452a4975cb617/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/96ef2403ca7dc9a9797b125a5debaf9e317c1278/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9da85bab775755a91e1400326d715e97418353fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/ef2e9f814b86f45553681d2da77d3593f21fb676/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d80b68a7a1d580e2679dbdeff4e961657815f5e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/1d54286191dd229bc8e60aa1b342d9e27c7be263/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d88c53de282e0b7b773cf865ce2476d3782cdd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/a689d1aa3da7c2cd59d4a84265bbfd4179eb5093/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2a7a30cf0770c42c01376b19c591c45b6a5c9a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/fea9fa382ec6eba8a57a558d16f1b6d7cb3d337c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71dc7e55d2f0899605a5261f840010013fefcf37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/01ff66f0414cc5dd6c66a14443f9e893b21e8470/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae819da9b62d4e7414165769f6bf635ae614240c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/1103e1417d5e4aa79495a85456f1d98d2ec45aa7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9c7db6e0ca12391fc0392397bd2f898f82c603b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/e09e70d1c9202d5d04b5e887e2614b32d4d852eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2d07faac129674e19acfbfec1e6d4091af274ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/31efbf676e58f0135941fb1e0f4333579ce691dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6c1839f388ae96d03e8cbaa5ef2d2005b2d4363/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/80b94e630e6714d763cc4d45314522fd810f9e89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0f0d51d2f6e9bd6ce29e13b64a37dbc2facb5c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/f2db514e7a4a2061cbbb7afb268a2a0debf9c396/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f93adf77045c15e8f97d93ac5bd36f72b69a968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/5e28b42f147dfeed7261cd287b4d6ac5acacfdb4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86c6c7f2f7288908998d508547dc04024a2b0309/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/3da31912eb05f657f7d6e7178b4d1d8f64b2695e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f9832c1b5636705b86c2882491a7523bd10c5bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/8b36fb4fa95dcc0583c0304a16fbcc24f5ba75aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72b79949134d3ddb850daa418a05a070cb8a2eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/dc17a775734eab08e026fdd38c334660b49d2bfe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53e2d248a0fd3a9d8581a1c7e4bb9e114c2c79a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/8e1ad1fb29c8059183e220f91c61f1b63d800c80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c7fea3c5a7f57b73623c28d2cd1480e973c4254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/3a6ec3b2e87c07e6af6b83f0e13ad55d7dd99629/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe7f24653b507241155ffe41f5177c29a0ce8b79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/79813077550f37d476fe07003715b63aa7877673/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8fb38e83362dc93a14117bb88ca7fc3d0c97297e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/9a318af69e0d8db480814fc8f3509564d13219f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43501c5a23ad6b216d0c8b4932b81025c482972a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/0d146afb768c71f94e15ac0e06ec799610100c39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76199fd06e9ee1f80c55adbb3a366133e2b5bd0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/e9b501c9d0a0363c0b6c9d440b406aa1f8215c7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79135d1a842b4e72ca11b902d218704ccd6f447c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/5bf14d7fbc26d632ddd1465f83e6dc5c2de6abf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09cd7d8fc2708a4ccde30ea631f3fc3df23afa4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/42d52e208d27a3faa38d64b9d2ebbb6910f9c5c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aaa0843ae42487db5846ded0f7f024fee82632b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/adf99c38d81af4db6854a05dd21b724c9f34b0dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a87ff9c9fa655c75b587cd3481948578a93a81d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/9056b620c990735db031510290ecc8e4595adb61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa2b9a648ba07562bdebe0c093e5e80245d4d98a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/dd3e1e03d63cd9d3ab6e598ae7157310789c7565/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e14ac03e6fb8f5f98c7c51ec6ee71d5b48261e5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/ad8a6e6a67ddcbb5b18e3cef903e07bab5916c31/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b20f09bd003ac56e3e30d56db1c6a43cc834202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/653f539d0e31c885aeb394cbfbde5e872855e7e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4ad6a8da747ef3067c91dc197f0d18db0cfda76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/55f40e155bd7f92dd80c2b00d5475d872d766267/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_901d315bbc5c4d6b31a3f7cfd81d9c4e4e139591/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +408,84 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/fd9e9a7312f88a4bc5ea8eb79ec4e46353a4b68a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4560c89f4957c7604d110abb1b72ab4ac7c94c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="34aca4c693af46cd804682ff51bb73b0d23b6ecd">
+        sha1="362fdf7ff49499424941d872e779aca3642e154c">
         <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_50bee0118fe6bc9a6943e0d55b29964780d0ac38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/efe5d84ef3df2b1e2b456ddfe58bbc1a84bb30ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f7960027fd8428ac88b68c43588ff81af6ea7f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/a584b0773dc81f1605203b4da142b0f75315640c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df4287af17a84108c47dfa79a794fa9d8a4e22f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/4b055f71f141e708e6c3894183ec66da9ddb33aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b4d9424c1c2a6d965345377799a1f06104d79b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/86428d05a56e35210c4ec6a1dec4b38a14742cf8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d838413f8f925a74075ab0954199080804ead58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/e4c0699e66ae08ae7c5962da4ba2bd7b57f5c088/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d7c300a876943f70e6411dc477b3c17bbb6a0e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/8dd7ca60eabfad4743dc06c676100201457d1182/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d66d184d7f9cfc89a12788df5973ebb90b15017/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Rishi/.android/build-cache/31bf7605cd57b9885512c9ffdc17006b5254cb44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/Rishi/Documents/Projects/SRMHackthon2017/HerbScout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_885767b131537723ab5ab19757a3e4b544a7537a/classes.dex" />
     </item>
 
 </items>
