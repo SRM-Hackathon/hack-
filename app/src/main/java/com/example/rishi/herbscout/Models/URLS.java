@@ -10,5 +10,5 @@ public class URLS {
     final public static String registerURL="auth/register/";
     final public static String searchImageURL="search/plant_image/";
     final public static String searchNameURL="search/plant_info";
-    final public static String getSpecificPlantURL="search/get_specific_plant/";
+    final public static String getSpecificPlantURL="search/get_specific_plant";
 }
