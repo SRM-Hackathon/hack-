@@ -28,19 +28,15 @@ with open('./data/states.txt', 'r') as states:
 states.close()
 
 # Create your views here.
-
-
 class HerbView(viewsets.ModelViewSet):
 
     @detail_route(methods=['get'])
     def herb_info(self, request, *args, **kwargs):
-        botanical_name = " ".join(map(
-            lambda x: x.lower(), kwargs['herb_name_slug'].split('-')))
-        # name_1 = herb_botanical_name[0]
-        # name_2 = herb_botanical_name[1]
-        # botanical_name = name_1 + " " + name_2
-        herb_data = db.information.find_one(
-            {"botanical_name": botanical_name.capitalize()})
+        herb_botanical_name = kwargs['herb_name_slug'].split('-')
+        name_1 = herb_botanical_name[0]
+        name_2 = herb_botanical_name[1]
+        botanical_name = name_1 + " " + name_2
+        herb_data = db.information.find_one({"botanical_name": botanical_name.capitalize()})
 
         herb_info = {}
         if herb_data != None:
@@ -87,19 +83,17 @@ class HerbView(viewsets.ModelViewSet):
                     }
                 },
                 "sort": [
-                    {"_score": {"order": "desc"}}
+                    { "_score": { "order": "desc" }}
                 ]
             }
 
-            similar_properties = es.search(
-                index="herbs_info", doc_type="doc", body=json.dumps(search_doc), sort="_score")
+            similar_properties = es.search(index = "herbs_info", doc_type = "doc", body = json.dumps(search_doc), sort = "_score")
 
             recommendations = []
             for similar in similar_properties['hits']['hits']:
                 item = {}
                 if similar['_source']['botanical_name'] != herb_data['botanical_name']:
-                    item['botanical_name'] = similar['_source']['botanical_name'].replace(
-                        " ", "-").lower()
+                    item['botanical_name'] = similar['_source']['botanical_name'].replace(" ","-").lower()
                     recommendations.append(item)
 
         if herb_data is not None:
@@ -118,69 +112,3 @@ class HerbView(viewsets.ModelViewSet):
                 "recommendations": []
             }
             return Response(content, status=status.HTTP_200_OK)
-
-    @detail_route(methods=['post'])
-    def search_results(self, request, *args, **kwargs):
-        query = request.data.get('query')
-
-        search_doc = {
-            "size": 20,
-            "query": {
-                "dis_max": {
-                    "queries": [
-                        {
-                            "match": {
-                                "botanical_name": {
-                                    "query": query,
-                                    "boost": 2.0
-                                }
-                            }
-                        },
-                        {
-                            "match": {
-                                "parts_used": {
-                                    "query": query,
-                                    "boost": 1.5
-                                }
-                            }
-                        },
-                        {
-                            "match": {
-                                "places": {
-                                    "query": query,
-                                    "boost": 1.0
-                                }
-                            }
-                        },
-                        {
-                            "match": {
-                                "properties": {
-                                    "query": query,
-                                    "boost": 3.0
-                                }
-                            }
-                        }
-                    ]
-                }
-            },
-            "sort": [
-                {"_score": {"order": "desc"}}
-            ]
-        }
-
-        results = es.search(index="herbs_info", doc_type="doc",
-                            body=json.dumps(search_doc), sort="_score")
-
-        search_results = []
-        for i in results['hits']['hits']:
-            res = {}
-            res['botanical_name'] = i['_source']['botanical_name'].replace(
-                " ", "-").lower()
-            #res['places'] = i['_source']['places']
-            #res['properties'] = i['_source']['properties']
-            search_results.append(res)
-
-        content = {
-            "results": search_results
-        }
-        return Response(content, status=status.HTTP_200_OK)

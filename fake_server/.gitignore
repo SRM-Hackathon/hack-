@@ -12,3 +12,7 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+Test.*
+*py
+Result.txt
+Result_1.txt

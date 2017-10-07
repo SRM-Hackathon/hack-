@@ -123,4 +123,8 @@ class ImageView(viewsets.ModelViewSet):
 
         else:
             return Response({"identified": False, "result": {} }, status=status.HTTP_200_OK)
-            
+
+    @detail_route(methods=['POST'])
+    def image_info(self, request):
+        herb_name = request.data.get('herb_name')
+        return Response({'herb_name': herb_name}, status=status.HTTP_200_OK)
